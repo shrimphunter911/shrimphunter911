@@ -1,5 +1,5 @@
 ### Hey 👋
-<p align="left">
+<p align="right">
   <img src="https://github.com/shrimphunter911/shrimphunter911/blob/main/giphy.gif"
 </p>
 
