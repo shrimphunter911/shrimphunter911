@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey 👋
+<p align="left">
+  <img src="https://github.com/shrimphunter911/shrimphunter911/blob/main/giphy.gif"
+</p>
 
 <!--
 **shrimphunter911/shrimphunter911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
